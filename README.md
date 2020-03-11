@@ -1,6 +1,6 @@
 ## Laboratorio de Programación Orientada a Objetos
 
-[ejercicios 11 de Marzo](https://github.com/labopoo/ejercicios/marzo/11/enunciado.txt)
+[ejercicios 11 de Marzo](https://github.com/labopoo/ejercicios/marzo/11/enunciado.md)
 
 ### Markdown
 
