@@ -11,7 +11,7 @@
 ### Ejercicios, clase 2, 16 de Marzo
 - [enunciado](https://github.com/labopoo/ejercicios/blob/master/marzo/16/enunciado.md)
 
-### Ejercicios, clase3, 18 de Marzo
+### Ejercicios, clase 3, 18 de Marzo
 - [enunciado](https://github.com/labopoo/ejercicios/blob/master/marzo/18/enunciado.txt)
 - [apunte sobre empaquetamiento de clases](https://github.com/labopoo/ejercicios/blob/master/marzo/18/empaquetamientoDeClases.md)
 - [apunte sobre importación de clases](https://github.com/labopoo/ejercicios/blob/master/marzo/18/importacionDeClases.md)
