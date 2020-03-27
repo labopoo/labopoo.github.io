@@ -12,7 +12,7 @@
 - [apunte sobre uso de la clase ArrayList](https://github.com/labopoo/ejercicios/blob/master/marzo/18/usoDeClaseArrayList.md)
 
 ### Ejercicios, clase 2, 16 de Marzo
-- [enunciado](https://github.com/labopoo/ejercicios/blob/master/marzo/16/enunciado.md)
+- [enunciado](https://github.com/labopoo/ejercicios/blob/master/marzo/16/enunciado.txt)
 
 ### Ejercicios, clase 1, 11 de Marzo
 
