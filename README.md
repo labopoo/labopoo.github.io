@@ -1,5 +1,10 @@
 ## Laboratorio de Programación Orientada a Objetos
 
+### Ejercicios, clase 5, 30 de Marzo
+- [enunciado](https://github.com/labopoo/ejercicios/blob/master/marzo/30/enunciado.md)
+- [apunte sobre clases envolventes](https://github.com/labopoo/ejercicios/blob/master/marzo/30/ClasesEnvolventes.md)
+- [ejercicios resueltos](https://github.com/labopoo/ejercicios/tree/master/marzo/30/ejerciciosResueltos)
+
 ### Ejercicios, clase 4, 25 de Marzo
 - [enunciado](https://github.com/labopoo/ejercicios/blob/master/marzo/25/enunciado.md)
 - [apunte sobre la clase Scanner](https://github.com/labopoo/ejercicios/blob/master/marzo/25/usoDeClaseScanner.md)
