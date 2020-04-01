@@ -1,5 +1,9 @@
 ## Laboratorio de Programación Orientada a Objetos
 
+### Ejercicios, clase 6, 1 de Abril
+- [enunciado](https://github.com/labopoo/ejercicios/blob/master/abril/1/enunciado.md)
+- [git y github](https://github.com/labopoo/ejercicios/blob/master/abril/1/github.md)
+
 ### Ejercicios, clase 5, 30 de Marzo
 - [enunciado](https://github.com/labopoo/ejercicios/blob/master/marzo/30/enunciado.md)
 - [apunte sobre clases envolventes](https://github.com/labopoo/ejercicios/blob/master/marzo/30/ClasesEnvolventes.md)
