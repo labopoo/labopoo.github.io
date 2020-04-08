@@ -3,10 +3,10 @@
 ## [Canal de consultas](https://teams.microsoft.com/l/channel/19%3a6ccec3014f5441dfbaafc898f7171d1a%40thread.tacv2/Consultas?groupId=dd1cc144-6a1a-4958-a9a6-fa911923b680&tenantId=a37514ff-9061-40b5-809b-002f4ef84cb4)
 
 ### Ejercicios, clase 8, 8 de Abril
--[enunciado](https://github.com/labopoo/ejercicios/blob/master/abril/8/enunciado.md)
--[comandos más usados (git)](https://github.com/labopoo/ejercicios/blob/master/abril/1/github.md)
--[comentario sobre buenas prácticas de programación](https://github.com/labopoo/ejercicios/blob/master/abril/8/comentarioSobreBuenasPracticas.md)
--[apunte de la UBA](https://github.com/labopoo/ejercicios/blob/master/abril/8/buenasPracticas.pdf)
+- [enunciado](https://github.com/labopoo/ejercicios/blob/master/abril/8/enunciado.md)
+- [comandos más usados (git)](https://github.com/labopoo/ejercicios/blob/master/abril/1/github.md)
+- [comentario sobre buenas prácticas de programación](https://github.com/labopoo/ejercicios/blob/master/abril/8/comentarioSobreBuenasPracticas.md)
+- [apunte de la UBA](https://github.com/labopoo/ejercicios/blob/master/abril/8/buenasPracticas.pdf)
 
 ### Ejercicios, clase 7, 6 de Abril
 - [enunciado](https://github.com/labopoo/ejercicios/blob/master/abril/6/enunciado.md)
