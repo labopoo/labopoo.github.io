@@ -3,8 +3,8 @@
 ## [Canal de consultas](https://teams.microsoft.com/l/channel/19%3a6ccec3014f5441dfbaafc898f7171d1a%40thread.tacv2/Consultas?groupId=dd1cc144-6a1a-4958-a9a6-fa911923b680&tenantId=a37514ff-9061-40b5-809b-002f4ef84cb4)
 
 ### Ejercicios, clase 9, 13 de Abril
--[enunciado](https://github.com/labopoo/ejercicios/blob/master/abril/13/enunciado.md)
--[for-each](https://github.com/labopoo/ejercicios/blob/master/abril/13/foreach.md)
+- [enunciado](https://github.com/labopoo/ejercicios/blob/master/abril/13/enunciado.md)
+- [for-each](https://github.com/labopoo/ejercicios/blob/master/abril/13/foreach.md)
 
 ### Ejercicios, clase 8, 8 de Abril
 - [enunciado](https://github.com/labopoo/ejercicios/blob/master/abril/8/enunciado.md)
