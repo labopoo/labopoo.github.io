@@ -2,6 +2,9 @@
 
 ## [Canal de consultas](https://teams.microsoft.com/l/channel/19%3a6ccec3014f5441dfbaafc898f7171d1a%40thread.tacv2/Consultas?groupId=dd1cc144-6a1a-4958-a9a6-fa911923b680&tenantId=a37514ff-9061-40b5-809b-002f4ef84cb4)
 
+### El tp, clase 14, 11 de Mayo
+- [aclaraciones y ayuda sobre cómo resolver el tp](https://github.com/labopoo/ejercicios/blob/master/mayo/11/aclaracionesyayuda.txt)
+
 ### Ejercicios, clase 13, 6 de Mayo
 - [enunciado](https://github.com/labopoo/ejercicios/blob/master/mayo/6/enunciado.txt)
 
