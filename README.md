@@ -1,6 +1,6 @@
 ## Laboratorio de Programación Orientada a Objetos
 
-### Ejercicios, clase 34, 31 de Agosto
+### Ejercicios, clase 35, 2 de Septiembre
 - [enunciado](https://github.com/labopoo/ejercicios/blob/master/septiembre/2/enunciado.txt)
 
 ### Ejercicios, clase 34, 31 de Agosto
