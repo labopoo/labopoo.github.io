@@ -1,5 +1,9 @@
 ## Laboratorio de Programación Orientada a Objetos
 
+
+### Ejercicios, clase 39, 16 de Septiembre
+- [enunciado](https://github.com/labopoo/ejercicios/blob/master/septiembre/16/enunciado.txt)
+
 ### Ejercicios, clase 38, 14 de Septiembre
 - [enunciado](https://github.com/labopoo/ejercicios/blob/master/septiembre/14/enunciado.txt)
 
