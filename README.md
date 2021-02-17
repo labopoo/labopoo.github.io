@@ -1,5 +1,11 @@
 ## Laboratorio de Programación Orientada a Objetos
 
+## PROGRAMA DE LA MATERIA
+- [programa](https://github.com/labopoo/ejercicios/blob/master/2021/febrero/programa.txt)
+
+## PERÍODO DE APOYO, FEBRERO 2021
+- [preguntas](https://github.com/labopoo/ejercicios/blob/master/2021/febrero/preguntas.md)
+- [enunciado](https://github.com/labopoo/ejercicios/blob/master/2021/febrero/enunciado.txt)
 
 ### Ejercicios, clase 39, 16 de Septiembre
 - [enunciado](https://github.com/labopoo/ejercicios/blob/master/septiembre/16/enunciado.txt)
