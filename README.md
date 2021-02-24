@@ -7,6 +7,7 @@
 - [preguntas](https://github.com/labopoo/ejercicios/blob/master/2021/febrero/preguntas.md)
 - [enunciado 17/2](https://github.com/labopoo/ejercicios/blob/master/2021/febrero/enunciado.txt)
 - [enunciado 22/2](https://github.com/labopoo/ejercicios/blob/master/2021/febrero/enunciado2.txt)
+- [enunciado 24/2](https://github.com/labopoo/ejercicios/blob/master/2021/febrero/ejercicios3.txt)
 
 ### Ejercicios, clase 39, 16 de Septiembre
 - [enunciado](https://github.com/labopoo/ejercicios/blob/master/septiembre/16/enunciado.txt)
