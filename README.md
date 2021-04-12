@@ -1,16 +1,13 @@
 ## Materias
 
-## PROGRAMA DEL LABORATORIO DE PROGRAMACIÓN ORITENTADA A OBJETOS
-- [ir](https://github.com/materiasipm/materiasipm.github.io/blob/master/labo.md)
+## [LABORATORIO DE PROGRAMACIÓN ORIENTADA A OBJETOS](https://github.com/materiasipm/materiasipm.github.io/blob/master/labo.md#programa-del-laboratorio-de-programaci%C3%B3n-oritentada-a-objetos)
 
-## Tarea 9 de Abril (taller)
-- [enunciado](https://github.com/materiasipm/ejercicios/blob/master/enunciado9deAbril.txt)
 
-## Tarea 5 de Abril (labo)
-- [enunciado](https://github.com/materiasipm/ejercicios/blob/master/2021/abril/5/enunciado.txt)
+## TALLER DE TECNOLOGÍAS DE SOPORTE INFORMÁTICO - 5TO
 
-## Tarea 22 de Marzo (labo)
-- [ejercicio de repaso, c++](https://github.com/materiasipm/ejercicios/blob/master/2021/marzo/22/repaso.txt)
+## TALLER DE TECNOLOGÍAS DE SOPORTE INFORMÁTICO - 6TO
 
-## Tarea 8 de Marzo (labo)
-- [c++](https://github.com/materiasipm/ejercicios/tree/master/marzo/11/cpp)
+## BASES DE DATOS
+
+## TALLER DE INNOVACIONES TECNOLÓGICAS
+
