@@ -10,4 +10,9 @@
 - [ejercicio de repaso, c++](https://github.com/materiasipm/materiasipm.github.io/blob/master/labo/marzo/enunciado22deMarzo.txt)
 
 ## Tarea 8 de Marzo
-- [c++](https://github.com/materiasipm/ejercicios/tree/master/marzo/11/cpp)
+- [main.cpp](https://github.com/materiasipm/materiasipm.github.io/blob/master/labo/marzo/main.cpp)
+
+- [ejercicios.cpp](https://github.com/materiasipm/materiasipm.github.io/blob/master/labo/marzo/ejercicios.cpp)
+
+- [ejercicios.h](https://github.com/materiasipm/materiasipm.github.io/blob/master/labo/marzo/ejercicios.h)
+
