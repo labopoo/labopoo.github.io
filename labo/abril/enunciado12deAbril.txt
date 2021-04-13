@@ -1,0 +1,4 @@
+1) Crear una aplicación que pida al usuario ingresar los datos necesarios para crear un objeto de la clase Persona.
+2) Crear la instancia de la clase Persona e imprimir cuáles fueron los datos ingresados utilizando "getters".
+3) Ofrecerle al usuario la opción de cambiar uno de sus datos (el usuario deberá elegir), realizar el cambio utilizando
+"setters" e imprimir nuevamente los datos del objeto creado.

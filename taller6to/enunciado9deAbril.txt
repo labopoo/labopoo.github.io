@@ -1,0 +1,27 @@
+1)
+Abrir la consola de algún navegador de internet y realizar las siguientes acciones:
+
+a. Crear una arreglo que contenga 5 números enteros utilizando una lista de elementos.
+b. Agregarle 4 strings utilizando el método push
+c. Agregarle un arreglo vacio
+d. Agregarle dos número decimales
+e. Eliminar el último número decimal utilizando el método pop
+f. Eliminar el segundo string utilizando el método splice 
+g. Eliminar el primer string y agrgar el string "nuevo" en ese mismo lugar, utilizar
+el método splice.
+
+2) Implementar las siguientes funciones y colocarlas en un archivo html. 
+Para probar su funcionamiento, utilizar la impresión por consola.
+
+a. cantApariciones: recibe un arreglo de números A y un número N y devuelve la cantidad de veces que N está en A.
+
+b. posibleMailValido: recibe un string y devuelve true si existe el caracter @ en una posición que no sea ni la primera ni la última.
+
+c. posibleTelefonoValido: recibe un string de la pinta “01143235687” y devuelve true si empieza con 011 o con 11 y tiene exactamente 8 digitos después.
+
+Documentación oficial:
+
+Documentación sobre arreglos escritos en JavaScript -> https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array
+
+Documentación sobre string escritos en JavaScript -> https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/String
+

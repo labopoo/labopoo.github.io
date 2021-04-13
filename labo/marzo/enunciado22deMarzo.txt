@@ -1,0 +1,32 @@
+1. Crear un programa que pida ingresar 6 palabras. El programa
+deberá imprimir, por un lado, aquellas palabras que tengan índices
+pares y, por otro lado, aquellas palabras que tengan índices impares.
+Las palabras deberán estár unidas con un guión medio: "-".
+
+
+2. Crear un programa que sirva para registrar compras. El mismo
+deberá almacenar en un vector, los nombres de los producto; y en 
+otro vector, los precios de los productos.
+
+Existirá una correspondencia entre índices, es decir, que el
+precio que tendrá índice "x" será correspondiente al producto
+con índice "x".
+
+El programa deberá proveerle al usuario las siguientes tareas:
+
+* Registro de producto.
+  Aquí se deberá pedir el nombre del producto y su precio.
+
+* Importe parcial a pagar.
+  - Aquí se deberá imprimir el importe a pagar por 
+  los productos registrados hasta el momento.
+  - Cuando se termine de mostrar el importe mencionado, 
+  el programa deberá dar la opción de realizar
+  un nuevo registro.
+
+* Finalizar registro. 
+  Aquí se deberá imprimir el importe total a pagar.
+  - Cuando se termine de mostrar el importe mencionado, 
+  el programa no deberá dar la opción de realizar 
+  un nuevo registro.
+
