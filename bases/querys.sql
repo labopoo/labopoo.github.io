@@ -1,3 +1,7 @@
+-- consultas a modo de ejemplo
+
+-- para iniciar la consola: mysql -u root -p
+
 CREATE DATABASE personas;
 
 use personas;
@@ -11,8 +15,6 @@ SELECT NOMBRE FROM alumnos;
 SELECT EDAD FROM alumnos;
 
 SELECT * FROM alumnos;
-
-
 
 DESCRIBE alumnos;
 
