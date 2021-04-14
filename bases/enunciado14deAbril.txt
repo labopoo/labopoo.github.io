@@ -29,7 +29,7 @@ nombreDeChofer
 2)
 a. ingresar 5 filas de datos en cada tabla
 b. agregar la columna "numeroDeSocio" en la tabla clientes
-c. agregar la columna "legajo" en la tabla empleado
+c. agregar la columna "numLegajo" en la tabla empleados
 d. agregar la columna "numeroDeUnidad" en la tabla ambulancias
 e. actualizar la dirección de dos clientes a elección con el valor "Calle Falsa 123"
 f. actualizar el mail de un empleado a elección con el valor "hola@gmail.com"
