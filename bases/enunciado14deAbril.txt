@@ -2,15 +2,15 @@ Crear dos bases de datos:
  - personas
  - automotores
 
-Personas debe tener dos tablas:
+Personas debe tener dos tablas.
 
-* clientes
+a. clientes:
 Dni
 nombre
 Dirección
 Teléfono
 
-* empleados
+b. empleados:
 Dni
 Apellido y nombre
 Dirección
@@ -21,15 +21,12 @@ edad
 
 Automotores debe tener una tabla:
 
-Ambulancias
+a. Ambulancias:
 Patente
 nombreDeChofer
 
 
-
-
-2) 
-
+2)
 a. ingresar 5 filas de datos en cada tabla
 b. agregar la columna "numeroDeSocio" en la tabla clientes
 c. agregar la columna "cargo" en la tabla empleado
@@ -40,4 +37,7 @@ g. actualizar el nombre del chofer de una ambulancia a elección con el valor "R
 h. eliminar a los empleados con una edad mayor o igual a 65
 i. eliminar a todos los clientes con el teléfono menor al 40000000
 j. eliminar a todos los clientes que se llamen "Equis"
+
+
+3)
 
