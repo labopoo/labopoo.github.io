@@ -2,5 +2,5 @@
 
 ## Tarea 15 de Abril
 - [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller6to/enunciado15deAbril.txt)
-
+- [ejemplo](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller6to/exp.ipynb)
 
