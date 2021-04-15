@@ -1,0 +1,6 @@
+1) Leer su archivo csv utilizando.
+2) De ser posible, elegir una columna que pueda servir como índice y setearla como tal.
+3) Eliminar las filas duplicadas
+5) Eliminar las filas con valores que no sirven (espacios vacíos y "NaN")
+7) Escribir un nuevo archivo .csv con las modificaciones realizadas
+6) Colocar en forma de tabla, las primeras 3000 filas  y luego, las ultimas 2000.
