@@ -1,0 +1,14 @@
+1. Crear un archivo llamado funciones.js
+
+2. Utilizar el siguiente elmento para relacionar un documento .html con un archivo .js
+
+	<script type="text/javascript" src="funciones.js"></script>
+
+Colocarlo dentro de las etiquetas "head".
+
+3. Mover las funciones realizadas durante la clase pasada en el archivo
+creado.
+
+4. Crear una interfaz gráfica para cada una de las dos últimas funciones. Colocarlas
+en diferentes archivos .html
+
