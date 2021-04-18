@@ -1,0 +1,9 @@
+1) Crear una aplicación que reciba 3 datos: nombre, apellido y edad.
+2) Una vez ingresados los datos, los mismos deben ser impresos dentro
+de etiquetas diferentes y con colores diferentes.
+3) Si la edad es mayor a 18, el color de fondo deberá cambiar a Azul.
+   Si la edad es menor a 18, el color de fondo deberá cambiar a Verde.	
+
+Nota: un "if" en javascript se escribe igual que en c++.
+
+
