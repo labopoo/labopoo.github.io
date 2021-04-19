@@ -1,0 +1,24 @@
+Crear una clase llamada Producto. La misma deberá tener como atributos:
+- nombre
+- precio
+
+El atributo nombre deberá ser de tipo String y el atributo precio
+deberá ser de tipo float.
+
+El programa deberá proveerle al usuario las siguientes tareas:
+
+* Registro de producto.
+  Aquí se deberá pedir el nombre del producto y su precio.
+
+* Importe parcial a pagar.
+  - Aquí se deberá imprimir el importe a pagar por 
+  los productos registrados hasta el momento.
+  - Cuando se termine de mostrar el importe mencionado, 
+  el programa deberá dar la opción de realizar
+  un nuevo registro.
+
+* Finalizar registro. 
+  Aquí se deberá imprimir el importe total a pagar.
+  - Cuando se termine de mostrar el importe mencionado, 
+  el programa no deberá dar la opción de realizar 
+  un nuevo registro.
