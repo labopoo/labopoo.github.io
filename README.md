@@ -11,4 +11,32 @@
 ## [TALLER DE TECNOLOGÍAS DE SOPORTE INFORMÁTICO - 6TO](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller6to/taller6to.md#taller-de-tecnolog%C3%ADas-de-soporte-inform%C3%A1tico)
 
 
+### [ALGUNOS COMANDOS DE GIT, LOS MÁS NECESARIOS]
+
+#### Traer todos los cambios 
+```
+git pull
+
+```
+#### Agregar los cambios de todos los archivos
+```
+git add .
+
+```
+#### Confirmar todos los cambios
+```
+git commit -m "mensaje breve indicando lo que se hizo en el repositorio"
+
+```
+#### Enviar todos los cambios
+```
+git push
+
+```
+#### Ver el estado del repositorio
+```
+git status
+
+```
+
 
