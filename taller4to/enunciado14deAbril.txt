@@ -5,4 +5,4 @@ b. Cada imagen tendrá que tener sobre ella su respectivo título.
 
 c. Cada título deberá tener un tipo de fuente distinto.
 
-d. Elegir un color de fondo distinto al del ejemplo.
+d. Elegir un color de fuente distinto al del ejemplo.
