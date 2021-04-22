@@ -1,6 +1,13 @@
-1) Leer su archivo csv utilizando.
+1) Leer su archivo csv utilizado.
 2) De ser posible, elegir una columna que pueda servir como índice y setearla como tal.
 3) Eliminar las filas duplicadas
 4) Eliminar las filas con valores que no sirven (espacios vacíos y "NaN")
 5) Escribir un nuevo archivo .csv con las modificaciones realizadas
-6) Colocar en forma de tabla, las primeras 3000 filas  y luego, las ultimas 2000.
+6) Colocar en forma de tabla, las primeras 3000 filas  y luego, las ultimas 2000. 
+Si su archivo csv no tiene una cantidad de datos que cumpla lo pedido, 
+la tabla deberá tener las primeras 300 y las últimas 200.
+
+7) Imprimir el data frame escrito en el nuevo archivo .csv
+8) Colocar en forma de tabla las filas 1, 5, 12, 36.
+9) Imprimir una lista con los nombres de todas las columnas.
+10) Imprimir los datos de una columna a elección.
