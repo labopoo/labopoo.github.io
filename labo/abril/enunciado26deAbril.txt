@@ -1,0 +1,16 @@
+1. Crear otra versión del programa realizado el dia 19 de Abril. 
+Esta nueva versión deberá utilizar la clase ArrayList. Cada instancia de producto
+creada deberá estar dentro de una instancia de la clase ArrayList.
+
+2. Crear una clase llamada "SistemaDeRegistro". Esta clase deberá imprmir las opciones
+que provee el sistema mediante un método llamado "iniciarSistema". También deberá tener
+los métodos que representen el comportamiento de un sistema.
+Ejemplos:
+- registrarProducto
+- verImporteParcial
+- verImporteTotal
+
+Asegurar que la clase Producto contenga métodos que representen el comportamiento
+correspondiente a un producto.
+
+
