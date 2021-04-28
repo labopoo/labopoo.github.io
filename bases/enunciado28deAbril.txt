@@ -1,0 +1,22 @@
+Responder las siguientes pregunta. Las respuestas deben ser explicaciones
+detalladas.
+
+1) ¿Cómo está compuesta una base de datos?
+
+2) ¿Qué es una tabla?¿Qué puedo encontrar en ella?
+
+3) ¿Cómo se crea una base de datos?
+
+4) ¿Qué tipos de datos se pueden utilizar para ingresar nombres y números?
+
+5) ¿Cómo se crea una tabla? ¿Qué siginifica cada parte de la consulta?
+¿El nombre de la tabla debe ser singular o plural?
+
+6) ¿Cómo inserto datos en la tabla?
+
+7) ¿Cómo se hace para ver todos los datos que ingresé hasta el momento?
+
+8) Dada una tabla de personas con el nombre y la edad de cada uno de ellos,
+responder:
+
+- 
