@@ -1,0 +1,11 @@
+Hoy deberán realizar las siguientes modificaciones a la tarea de la clase pasada:
+
+- Agregar dos imágenes que correspondan a una misma categoría. Las mismas deberán tener
+el atributo "class" con el valor "nombreDeCategoría". Estas imágenes deberán
+tener un ancho 3cm y una altura de 2cm.
+
+- Agregar una imágen que corresponda a una categoría distinta. La misma deberá tener
+el atributo "id" con el valor "nombreDeOtraCategoría". Esta imágen deberá tener
+un ancho de 4cm por una altura de 3cm.
+
+Comentario: realizar esta tarea en un nuevo archivo .html
