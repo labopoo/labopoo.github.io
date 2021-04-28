@@ -16,7 +16,31 @@ detalladas.
 
 7) ¿Cómo se hace para ver todos los datos que ingresé hasta el momento?
 
-8) Dada una tabla de personas con el nombre y la edad de cada uno de ellos,
+8) Dada una tabla de personas con el nombre, la edad y el dni de cada uno de ellos,
 responder:
 
-- 
+- ¿Cómo se hace para cambiar el nombre a una persona que se llama 
+Anacleto y tiene como dni el número 14235234? El nuevo nombre deberá ser Favio.
+
+- ¿Cómo se hace para cambiar el nombre a una persona que se llama
+Anacleto y tiene 80 años? El nuevo nombre deberá ser Pablo.
+
+- ¿Cómo se hace para cambiar la dirección a todos los integrantes
+de la familia con apellido Equis?
+
+- ¿Cómo se hace para eliminar a todos los integrantes de la familia
+Gamboa de la base de datos?
+
+- ¿Cómo se hace para ver los datos de todas las personas mayores de edad
+registradas?
+
+- ¿Cómo se hace para ver los datos de todas las personas que son 
+mayores de edad y se llamen Roberto?
+
+- ¿Cómo se hace para ver los nombres de la familia Equis?
+
+- ¿Còmo se hace para ver las edades de la familia Equis?
+
+- ¿Còmo se hace para ver todos los datos de las personas menores de edad
+de la familia Equis?
+
