@@ -1,5 +1,11 @@
-Crear un sistema de registro de personas. Deberán utilizar la clase Persona que se pide
-en la tarea del día 5 de Abril.
+- Hoy deberán crear un sistema ABM. Un sistema ABM es un sistema que permite ralizar 3 acciones principales:
+A -> alta -> ingreso de datos 
+B -> baja -> eliminaciòn de datos
+M -> modificaciòn -> modificación de datos
+
+El ABM que realicen serà un sistema que administre datos de personas.
+
+Comentario: deberán utilizar la clase Persona que se pide en la tarea del día 5 de Abril.
 
 Para ello, deberán:
 
@@ -8,16 +14,19 @@ atriburo un arraylist que contenga objetos de la clase Personas. debe llamarse "
 
 2. El sistema deberá proveer 6 opciones que el usuario deberá elegir:
 
-- Realizar alta de persona, es decir, registrar una persona.
+- Realizar el alta de una persona, es decir, registrar una persona.
 
-- Realizar baja de persona, es decir, eliminar del registro a determinada persona. 
+- Realizar la baja de una persona, es decir, eliminar del registro a determinada persona. 
 La eliminaciòn deberá hacerse segùn el nùmero de DNI.
 
-- Realizar modificaciòn de persona, es decir,brindar la opción modificar alguno de los atributos
-que tiene la persona.
+- Realizar alguna modificaciòn de algún/os dato/os una persona, es decir,brindar la opción
+de modificar alguno de los atributos que tiene la persona.
+
+3. Tambièn le vamos a agregar funciones extra:
 
 - Ver nombres de personas mayores de 18 años
 
 - Ver lista de todas las personas registradas
 
-- Salir del sistema. El sistema deberá imprimir el mensaje "bye!"
+4. También se deberá proveer la opción de Salir del sistema. 
+El sistema deberá imprimir el mensaje "bye!"
