@@ -1,5 +1,7 @@
 ## PROGRAMA DEL LABORATORIO DE PROGRAMACIÓN ORITENTADA A OBJETOS
 
+## Tarea 28 de Abril
+- [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/master/labo/abril/enunciado28deAbril.txt)
 
 ## Tarea 26 de Abril
 - [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/master/labo/abril/enunciado26deAbril.txt)
