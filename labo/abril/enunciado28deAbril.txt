@@ -1,0 +1,23 @@
+Crear un sistema de registro de personas. Deberán utilizar la clase Persona que se pide
+en la tarea del día 5 de Abril.
+
+Para ello, deberán:
+
+1. Crear una clase que se llame "SistemaDeRegistroDePersonas". La misma deberá tener como
+atriburo un arraylist que contenga objetos de la clase Personas. debe llamarse "personas".
+
+2. El sistema deberá proveer 6 opciones que el usuario deberá elegir:
+
+- Realizar alta de persona, es decir, registrar una persona.
+
+- Realizar baja de persona, es decir, eliminar del registro a determinada persona. 
+La eliminaciòn deberá hacerse segùn el nùmero de DNI.
+
+- Realizar modificaciòn de persona, es decir,brindar la opción modificar alguno de los atributos
+que tiene la persona.
+
+- Ver nombres de personas mayores de 18 años
+
+- Ver lista de todas las personas registradas
+
+- Salir del sistema. El sistema deberá imprimir el mensaje "bye!"
