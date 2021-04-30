@@ -1,6 +1,15 @@
 ## TALLER DE TECNOLOGÍAS DE SOPORTE INFORMÁTICO
 
 
+## Tarea 30 de Abril
+- [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller5to/enunciado30deAbril.txt)
+
+- [ejemplo .html](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller5to/cuadrado.html)
+
+- [ejemplo .css](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller5to/cuadrado.css)
+
+- [ejemplo .js](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller5to/cuadrado.js)
+
 ## Tarea 16 de Abril
 - [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller5to/enunciado16deAbril.txt)
 

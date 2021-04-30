@@ -1,0 +1,14 @@
+#cuadrado {
+	width: 2cm;
+	height: 2cm;
+	background-color: aquamarine;
+	margin-left: 1cm;
+}
+
+body {
+	background-color: linen;
+}
+
+#botones {
+	margin-top: 60%;
+}

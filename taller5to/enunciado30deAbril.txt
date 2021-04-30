@@ -1,0 +1,12 @@
+1. Descargar una imagen elección, la misma reemplazará el cuadrado verde
+mostrado en el ejemplo. Colocarle un id para poder cambiar su ubicación
+mediante Java Script. La imagen deberá tener un tamaño de 1cm de alto y
+1cm de ancho.
+
+2. Agregar los siguientes eventos:
+    - Cuando se acerque el mouse a la imagen, deberá moverse para abajo
+    - Cuando se realice un click en la imagen, deberá moverse para arriba
+    - Cuando se haga click sobre un botón llamado "derecha", deberá moverse hacia la derecha.
+    - Cuando se haga click sobre un botón llamada "izquierda", deberá moverse hacia la izquierda
+
+nota: utilizar "margin-top" o "margin-bottom".
