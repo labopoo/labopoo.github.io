@@ -9,4 +9,9 @@ mediante Java Script. La imagen deberá tener un tamaño de 1cm de alto y
     - Cuando se haga click sobre un botón llamado "derecha", deberá moverse hacia la derecha.
     - Cuando se haga click sobre un botón llamada "izquierda", deberá moverse hacia la izquierda
 
-nota: utilizar "margin-top" o "margin-bottom".
+nota 1: utilizar "margin-top" o "margin-bottom".
+ 
+Aclaración que no mencioné en el video: ver que en la línea 7 y en la línea 14 se va cambiando el valor de margen. Verán que el cuadrado volverá a su lugar de inicio, esto
+se debe a que sólo tomamos valores de 1 dígito pues indexamos sólo en 0.
+
+
