@@ -1,0 +1,3 @@
+Crear una clase similar a la clase llamada "SistemaDeRegistro" realizada el 26 de Abril. Esta nueva clase sólo deberá utilizar estructuras repetitivas de tipo "foreach".
+
+La nueva clase deberá llamarse "Sistema".

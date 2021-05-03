@@ -1,5 +1,8 @@
 ## PROGRAMA DEL LABORATORIO DE PROGRAMACIÓN ORITENTADA A OBJETOS
 
+## Tarea 3 de Mayo
+- [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/master/labo/abril/enunciado3deMayo.txt)
+
 ## Tarea 28 de Abril
 - [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/master/labo/abril/enunciado28deAbril.txt)
 
