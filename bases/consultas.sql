@@ -9,8 +9,6 @@ SELECT * FROM alumnos WHERE nombre LIKE '%a%';
 
 SELECT * FROM alumnos WHERE nombre LIKE 'g%a';
 
-CREATE TABLE alumnos (id INT AUTO_INCREMENT, nombre VARCHAR(50), edad INT, PRIMARY KEY(id));
-
 SELECT * FROM alumnos
 ORDER BY edad;
 
@@ -36,22 +34,15 @@ SET nombre = "Alfredo", edad = 12
 WHERE id = 1;
                                                                                        
 UPDATE alumnos
-                                                                                       
+SET nombre = "Alfredo", edad = 12
+WHERE id IS NULL;                                                                                    
 
-SELECT * FROM Customers
+SELECT * FROM alumnos
 LIMIT 3; 
 
-SELECT * FROM Customers
-WHERE Country='Germany'
+SELECT * FROM alumnos
+WHERE edad > 12
 LIMIT 3; 
 
-INSERT INTO table2
-SELECT * FROM table1
-WHERE condition; 
-
-INSERT INTO table2 (column1, column2, column3, ...)
-SELECT column1, column2, column3, ...
-FROM table1
-WHERE condition; 
 
 
