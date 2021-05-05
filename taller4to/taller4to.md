@@ -3,7 +3,7 @@
 ## Tarea 5 de Mayo
 - [ejemplo pagina.html](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller4to/pagina.html)
 - [ejemplo otraPagina.html](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller4to/otraPagina.html)
-- [ejemplo style.css](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller4to/estilo.css)
+- [ejemplo style.css](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller4to/style.css)
 - [ejemplo fuente melody.otf](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller4to/melody.otf)
 
 ## Tarea 28 de Abril
