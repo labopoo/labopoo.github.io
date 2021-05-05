@@ -1,23 +1,28 @@
-#### Traer todos los cambios 
+#### Para traer todos los cambios 
 ```
 git pull
 
 ```
-#### Agregar los cambios de todos los archivos
+### Para subir los cambios: 
+
+#### 1) Agregar los cambios de todos los archivos
 ```
 git add .
 
 ```
-#### Confirmar todos los cambios
+#### 2) Confirmar todos los cambios
 ```
 git commit -m "mensaje breve indicando lo que se hizo en el repositorio"
 
 ```
-#### Enviar todos los cambios
+#### 3) Enviar todos los cambios
 ```
 git push
 
 ```
+
+### Otros comandos
+
 #### Ver el estado del repositorio
 ```
 git status
