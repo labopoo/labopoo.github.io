@@ -1,18 +1,26 @@
-img {
-    width: 5cm;
-    height: 3cm;
-}
 
 body {
-    background-color: cadetblue;
+	background-image: url("perrito.jpeg");
+	background-size: cover;
+	background-repeat: no-repeat;
+
 }
 
-h6 {
-    /* font-size: 560px; */
-    font-size: 70px;
-    /* color: #2db6a0; */
-    color: rgb(55, 490, 12);
-    font-family: Amatic;
-}
+h3 {
+	/* Para opción 1 y 2
+	font-family: 'Itim', cursive;
+	*/
 
+	/* Para utilizar fuente descargada en archivo .otf
+	font-family: mel;
+	*/
+	/*font-family: "Times New Roman", Georgia, Serif;*/
+
+}
+/*
+@font-face {
+	font-family: "mel";
+	src: url(melody.otf) format("opentype");
+}
+*/
 
