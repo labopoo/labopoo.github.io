@@ -1,26 +1,29 @@
-
+/* Para colocar una imagen de fondo */
 body {
 	background-image: url("perrito.jpeg");
 	background-size: cover;
 	background-repeat: no-repeat;
 
 }
-
+/* Para utilizar fuente de GoogleFonts */
 h3 {
-	/* Para opción 1 y 2
 	font-family: 'Itim', cursive;
-	*/
-
-	/* Para utilizar fuente descargada en archivo .otf
-	font-family: mel;
-	*/
-	/*font-family: "Times New Roman", Georgia, Serif;*/
-
+	font-size: 50px;
 }
-/*
+
+/* Para utilizar fuente descargada en archivo .otf */
+h4 {
+	font-size: 50px;
+	font-family: mel;
+}
+
 @font-face {
 	font-family: "mel";
 	src: url(melody.otf) format("opentype");
 }
-*/
+
+a {
+	padding-top: 2cm;
+}
+
 
