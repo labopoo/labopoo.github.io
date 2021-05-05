@@ -1,29 +1,42 @@
-SELECT * FROM Customers
-WHERE NOT Country = 'Germany';
+SELECT * FROM alumnos
+WHERE NOT edad = 12;
 
-SELECT * FROM Customers
-ORDER BY Country;
+SELECT * FROM alumnos WHERE nombre LIKE 'a%';
 
-SELECT * FROM Customers
-ORDER BY Country DESC; 
+SELECT * FROM alumnos WHERE nombre LIKE '%a';
 
-SELECT * FROM Customers
-ORDER BY Country, CustomerName;
+SELECT * FROM alumnos WHERE nombre LIKE '%a%';
 
-SELECT * FROM Customers
-ORDER BY Country ASC, CustomerName DESC;
+SELECT * FROM alumnos WHERE nombre LIKE 'g%a';
 
-SELECT column_names
-FROM table_name
-WHERE column_name IS NULL; 
+CREATE TABLE alumnos (id INT AUTO_INCREMENT, nombre VARCHAR(50), edad INT, PRIMARY KEY(id));
 
-SELECT column_names
-FROM table_name
-WHERE column_name IS NOT NULL; 
+SELECT * FROM alumnos
+ORDER BY edad;
 
-UPDATE Customers
-SET ContactName = 'Alfred Schmidt', City = 'Frankfurt'
-WHERE CustomerID = 1;
+SELECT * FROM alumnos
+ORDER BY edad DESC;
+
+SELECT * FROM alumnos
+ORDER BY nombre;
+                                                                                       
+SELECT * FROM alumnos
+ORDER BY nombre DESC;
+                                                                                       
+SELECT *
+FROM alumnos
+WHERE edad IS NULL; 
+
+SELECT *
+FROM alumnos
+WHERE edad IS NOT NULL; 
+                                                                                 
+UPDATE alumnos
+SET nombre = "Alfredo", edad = 12
+WHERE id = 1;
+                                                                                       
+UPDATE alumnos
+                                                                                       
 
 SELECT * FROM Customers
 LIMIT 3; 
