@@ -1,0 +1,34 @@
+
+/* Para colocar una imagen de fondo */
+/*
+body {
+	background-image: url("imagenes/perrito.jpeg");
+	background-size: cover;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}*/
+
+
+h3 {
+	font-family: mel;
+	font-size: 50px;
+}
+
+h4 {
+	font-size: 50px;
+	font-family: mel;
+}
+
+@font-face {
+	font-family: "mel";
+	src: url(melody.otf) format("opentype");
+}
+
+a {
+	font-family: mel;
+	font-size: 60px;
+}
+
+
+
