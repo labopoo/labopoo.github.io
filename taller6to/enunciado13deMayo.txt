@@ -1,0 +1,14 @@
+1) Realizar dos de gráficos utilizando .bar() y utilizando .plot() 
+para 2 columnas a elección presentes en sus archivos csv.
+
+2) Debajo de cada gráfico deberán realizar escribir un análisis
+donde se respondan las siguientes preguntas:
+
+- ¿Qué conclusión o conclusiones se atrevería a sacar del gráfico obtenido?
+- ¿Cuáles serían las variables que considera que deberían tenerse en
+cuenta pero no las puede apreciar porque el csv no se las provee?
+¿Porqué?
+- ¿Podría relacionar los datos de las dos columnas elegidas para especular
+y proponer una conclusión?
+En caso de que no, ¿Con qué columnas cree que lo podría hacer? ¿Porqué?
+
