@@ -1,0 +1,19 @@
+2da parte de la clase anterior.
+
+1) Colocar un elemento a elección en alguna posición de la página. El mismo deberá tener un tamaño
+de aproximadamente 1cm x 1cm. 
+
+2) Cuando el nuevo elemento y el elemento creado en la clase anterior tengan la misma posición,
+el nuevo elemento deberá desaparecer.
+
+3) Realizar una nueva versión de la implementación realizada que deberá estar dentro de otra carpeta
+pero en el mismo proyecto. 
+
+El objeto móvil debe ser un cuadrado con la capacidad de cambiar de color y el objeto fijo deberá
+ser un cìrculo o cuadrado de un color distinto al objeto móvil.
+
+4) El objeto móvil deberá cambiar su color cuando pase sobre el objeto fijo y tomará el color del 
+color del objeto fijo. 
+
+5) En esta nueva versión, el objeto fijo también deberá desaparecer cuando el objeto
+móvil pase sobre èl.
