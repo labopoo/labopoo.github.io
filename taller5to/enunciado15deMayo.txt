@@ -1,0 +1,8 @@
+2da parte de la clase anterior.
+
+1) Colocar un elemento a elección en alguna posición de la página. El mismo deberá tener un tamaño
+de aproximadamente 1cm x 1cm.
+
+2) Cuando el nuevo elemento y el elemento creado en la clase anterior tengan la misma posición,
+el nuevo elemento deberá desaparecer.
+
