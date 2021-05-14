@@ -2,6 +2,7 @@
 
 ## Tarea 14 de Mayo
 - [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller5to/enunciado14deMayo.txt)
+- [ejemplo](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller5to/ejemplo14deMayo.js)
 
 ## Tarea 30 de Abril
 - [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller5to/enunciado30deAbril.txt)
