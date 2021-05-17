@@ -20,6 +20,6 @@ también dice cuál fué la editorial con más libros vendidos.
  Por cada libro vendido deberá existir un objeto o instancia de la clase Libro.
 
 
-3) Usar HashMap para asociar el nombre de editorial y la cantidad de unidades
+3) Utilizar un HashMap para asociar el nombre de editorial y la cantidad de unidades
 vendidas de la misma.
 
