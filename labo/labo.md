@@ -2,6 +2,7 @@
 
 ## Tarea 17 de Mayo
 - [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/master/labo/mayo/enunciado17deMayo.txt)
+- [ejemplo](https://github.com/materiasipm/materiasipm.github.io/blob/master/labo/mayo/Maps.java)
 
 ## Tarea 12 de Mayo
 - [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/master/labo/mayo/enunciado12deMayo.txt)
