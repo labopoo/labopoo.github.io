@@ -40,6 +40,11 @@ public class Maps {
         preciosDeProductos.put("fideos",56.45f);
         preciosDeProductos.put("puré de tomates",30.55f);
         preciosDeProductos.put("yogur",30.55f);
+        
+        for ( String nombreClave : preciosDeProductos.keySet() ){
+            Float valor = preciosDeProductos.get(nombreClave);
+            System.out.println(valor);
+        }
 
         System.out.println(preciosDeProductos);
         //{puré de tomates=30.55, yogur=30.55, fideos=56.45}
