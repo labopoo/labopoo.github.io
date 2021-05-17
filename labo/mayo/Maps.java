@@ -49,5 +49,9 @@ public class Maps {
         System.out.println(preciosDeProductos);
         //{puré de tomates=30.55, yogur=30.55, fideos=56.45}
 
+        /*
+        Documentación oficial:
+        https://docs.oracle.com/javase/8/docs/api/java/util/HashMap.html
+        */
     }
 }
