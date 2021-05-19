@@ -4,7 +4,8 @@ Una Empresa de Turismo quiere llevar una base de datos de sus Clientes, Paquetes
 
 Clientes:
 id
-Apellido y Nombre
+Nombre
+Apellido
 Dirección
 Dni
 Teléfono
