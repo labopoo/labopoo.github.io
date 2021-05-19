@@ -1,9 +1,8 @@
-﻿Una Empresa de Turismo quiere llevar una base de datos de sus Clientes, Paquetes de Viajes
-(paquetes de viajes ya armados), Alojamientos, Reservas y Forma de Pago. Para esto debemos
-gestionar un modelo entidad relación de los almacenamientos y sus relaciones.
+Una Empresa de Turismo quiere llevar una base de datos de sus Clientes, Paquetes de Viajes
+(paquetes de viajes ya armados), Alojamientos, Reservas y Forma de Pago. 
 
 
-﻿Clientes
+Clientes:
 id
 Apellido y Nombre
 Dirección
@@ -12,8 +11,8 @@ Teléfono
 Celular
 
 
-Alojamientos
-Alojamiento id
+Alojamientos:
+id
 Nombre
 Categoría
 Dirección
@@ -22,7 +21,8 @@ Cantidad de Personas
 Cantidad de Pisos
 
 
-﻿Reservas
+Reservas:
+(aquí, el id de cliente y el id de alojamiento se ingresa a mano, no es automático)
 Cliente id
 Alojamiento id
 Paquete de viaje
@@ -38,31 +38,41 @@ Cantidad de Excursiones
 tipo de viaje (Aéreo-Bus-Barco)
 
 
-1)   Recordar que el trabajo debe ser escrito en un script .sql utilizando la herramienta Mysql Workbench.
-﻿2)   Escribir el create de la base de datos
-3)   Escribir los create de las tablas
-4)   Insertar 10 filas en cada tabla
+1)   Recordar que las consultas realizadas deben estar en un archivo .sql utilizando la herramienta Mysql Workbench.
+2)   Elegir un nombre para la empresa de Turismo. Crear la base de datos utilizando el nombre elegido.
+3)   Escribir los create de las tablas. 
+4)   Insertar 20 filas en cada tabla. Las 20 inserciones deben ser realizadas mediante una sola consulta.
+     Entre las inserciones correspondientes a la tabla de clientes, deben existir:
+     - un cliente con el apellido "Garcia"
+     - un cliente con el apellido "Garciorela"
+     - un cliente con el apellido "Gimenez"
+     - un cliente con el apellido "Juarez"
+     - un cliente con el apellido "Haez"
 5)   Seleccione todos los datos de todas las filas de la tabla de clientes.
-6)   Seleccione los datos del cliente nro. 6
+6)   Seleccione los datos del cliente nro. 6 (utilizar la variable id).
 7)   Seleccione apelllido, nombre, teléfono y celular de todos clientes cuyo apellido comience
-con ‘Gar’
+con ‘Gar’.
 8)   Seleccione apelllido, nombre, teléfono y celular de todos clientes cuyo apellido termine
-con ‘ez’
+con ‘ez’.
 9)   Seleccione apelllido, nombre, teléfono y celular de todos clientes cuyo apellido contenga
-los caracteres ‘ar’ en algun lugar del apellido
+     los caracteres ‘ar’ en algun lugar del apellido.
 10) Borre los datos del cliente nro. 10
-11) Modifique la dirección del cliente nro. 10 a San Juan 1234
-12) Seleccione todos los paquetes de viaje que tengan mas de 3 excursiones ordenados
-alfabéticamente por lugar y luego por cantidad de días.
+11) Modifique la dirección del cliente nro. 10 a "San Juan 1234"
+12)
+a-  Seleccione todos los paquetes de viaje que tengan mas de 3 excursiones ordenados
+    alfabéticamente por lugar.
+b-  Seleccione todos los paquetes de viaje que tengan mas de 3 excursiones ordenados
+    de mayor a menor por cantidad de días.
+    
 13) Seleccione todos los paquetes de viaje de dos días de duración que cuesten mas de $6.000,50
 14) Seleccione todas las reservas desde el 01/05/2017 hasta el 10/05/2017 ordenadas por
-fecha descendente
+fecha descendente.
 15) Borre todas las reservas pertenecientes al cliente nro. 10
 16) Modifique la dirección del alojamiento nro. 3 a Belgrano 15897
 17) Liste las reservas entre el 01/04/2017 hasta el 30/04/2017 para mas de 2 personas.
-18)  Borrar los datos del cliente nro. 6.
+18) Borrar los datos del cliente nro. 6.
 20) Modifique la cantidad de días y noches de los paquetes a Bariloche. Todos los paquetes a
-Bariloche serán de 7dias, 8 noches.
+    Bariloche serán de 7 dias, 8 noches.
 
 
 
