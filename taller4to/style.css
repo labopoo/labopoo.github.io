@@ -3,6 +3,8 @@ body {
 	background-image: url("perrito.jpeg");
 	background-size: cover;
 	background-repeat: no-repeat;
+	background-position: center center;
+	background-attachment: fixed;
 
 }
 /* Para utilizar fuente de GoogleFonts */
