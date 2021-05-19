@@ -29,7 +29,6 @@ Paquete de viaje
 Fecha de inicio
 Fecha de fin
 Cantidad de Personas
-Paquete de Viaje
 Lugar
 Cantidad de días
 Cantidad de noches
