@@ -56,8 +56,8 @@ con ‘Gar’.
 con ‘ez’.
 9)   Seleccione apelllido, nombre, teléfono y celular de todos clientes cuyo apellido contenga
      los caracteres ‘ar’ en algun lugar del apellido.
-10) Borre los datos del cliente nro. 10
-11) Modifique la dirección del cliente nro. 10 a "San Juan 1234"
+10) Modifique la dirección del cliente nro. 10 a "San Juan 1234"
+11) Borre los datos del cliente nro. 10
 12)
 a-  Seleccione todos los paquetes de viaje que tengan mas de 3 excursiones ordenados
     alfabéticamente por lugar.
