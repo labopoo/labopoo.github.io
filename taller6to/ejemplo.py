@@ -13,8 +13,8 @@ y_values.reverse()
 
 x_posiciones = [0,4,8]
 plt1.figure(figsize=(8,6))
-plt1.xticks(x_posiciones, x_values)
 plt1.barh(x_posiciones, y_values)
+plt1.xticks(x_posiciones, x_values)
 plt1.xticks(rotation=90,fontsize=10)
 plt1.show()
 
