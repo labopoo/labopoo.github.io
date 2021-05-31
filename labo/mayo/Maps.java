@@ -5,6 +5,10 @@ import java.util.HashMap;
 public class Maps {
 
     public static void main(String[] args) {
+        
+        // < (x,y)
+        // < (1,4), (3,4), (6,4) >
+        // < (a,3), (f,7), (l,2) >
 
         HashMap<String,String> diccionario = new HashMap<>();
 
