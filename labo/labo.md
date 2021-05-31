@@ -1,5 +1,8 @@
 ## PROGRAMA DEL LABORATORIO DE PROGRAMACIÓN ORITENTADA A OBJETOS
 
+## Tarea 31 de Mayo
+- [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/master/labo/mayo/enunciado31deMayo.txt)
+
 ## Tarea 17 de Mayo
 - [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/master/labo/mayo/enunciado17deMayo.txt)
 - [ejemplo](https://github.com/materiasipm/materiasipm.github.io/blob/master/labo/mayo/Maps.java)
