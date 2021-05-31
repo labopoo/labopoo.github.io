@@ -6,9 +6,11 @@ public class Maps {
 
     public static void main(String[] args) {
         
-        // < (x,y)
+        // < (x,y) >
         // < (1,4), (3,4), (6,4) >
         // < (a,3), (f,7), (l,2) >
+        // ala : cada uno de los órganos o apéndices pares que utilizan algunos animales para volar.
+        // barra : pieza de metal u otra materia, de forma generalmente prismática o cilíndrica y mucho más larga que gruesa
 
         HashMap<String,String> diccionario = new HashMap<>();
 
