@@ -1,12 +1,15 @@
 Sistema Ventas de Insumos y servicios  de computación
 
-	Una empresa quiere sistematizar la gestión de su negocio, para ello decidió hacer un sistema donde pudiera controlar lo siguiente:
+Una empresa quiere sistematizar la gestión de su negocio, para ello decidió hacer un 
+sistema donde pudiera controlar lo siguiente:
 a. Stock
 b. Clientes 
 c. Proveedores 
 d. Facturación 	
 
-Clientes :
+Crear las siguientes tablas.
+
+Clientes:
 	id_cliente
 	nombre 
 	dirección
@@ -41,7 +44,6 @@ Proveedores :
 
 También el sistema deberá gestionar los productos que compra, cuantos, fecha y precio total .
 
-Consultas a las tablas:
 1) Insertar 10 filas en cada tabla. 
 Con respecto a la tabla Clientes, deberá ingresar 3 clientes que no tengan website; en dicho campo deberán ingresar el valor “No tiene”.
 2) Seleccione todos los productos cuyo stock mínimo sea mayor a 3 
