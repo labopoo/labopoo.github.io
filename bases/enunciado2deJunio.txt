@@ -1,0 +1,65 @@
+Sistema Ventas de Insumos y servicios  de computación
+
+	Una empresa quiere sistematizar la gestión de su negocio, para ello decidió hacer un sistema donde pudiera controlar lo siguiente:
+a. Stock
+b. Clientes 
+c. Proveedores 
+d. Facturación 	
+
+Clientes :
+	id_cliente
+	nombre 
+	dirección
+	teléfono 
+	celular 
+	fax
+	mail
+	website
+	contacto
+* los clientes pueden ser una empresa o una persona, por lo tanto, en id_cliente
+se deberá colocar cuil o dni, respectivamente.
+
+Productos:
+	codigo_producto 
+	descripción 
+	stock
+	precio unitario 
+	stock mínimo
+	
+*los productos también pueden ser servicios
+
+Proveedores :
+	id_proveedor
+	cuit
+	razón social 
+	dirección
+	teléfono 
+	fax
+	mail
+	website
+	contacto
+
+También el sistema deberá gestionar los productos que compra, cuantos, fecha y precio total .
+
+Consultas a las tablas:
+1) Insertar 10 filas en cada tabla. 
+Con respecto a la tabla Clientes, deberá ingresar 3 clientes que no tengan website; en dicho campo deberán ingresar el valor “No tiene”.
+2) Seleccione todos los productos cuyo stock mínimo sea mayor a 3 
+3) Seleccione todos los productos con un precio unitario entre $20 y $100
+4) Seleccione todos los clientes que poseen website.
+5) Borre todas las compras hechas al proveedor nro. 10 
+6) Modifique la dirección del proveedor nro. 3 a San Martín 12345
+7) Liste todas las compras realizadas el 01/04/2017
+8) Liste todas las compras del producto nro. 5 hechas al proveedor nro. 1 
+9) Liste los códigos de producto que se compraron al proveedor nro. 5 por mas de 10 unidades 
+10) Seleccione la cantidad total de productos que se ofrecen.
+11) Seleccione el precio más alto que se ofrece entre los productos de la empresa.
+12) Seleccione el nombre y código del producto con el precio más alto encontrado
+en el punto anterior.
+13) Seleccione el precio más bajo que se ofrece entre los productos de la empresa.
+14) Seleccione el nombre y código del producto con el precio más bajo encontrado
+en el punto anterior.
+15) Seleccione el precio promedio obtenido entre los precios de los productos que ofrece la empresa.
+16) Seleccione la suma de los stocks correspondientes a todos los productos
+17) Seleccione la suma de los stocks correspondientes a los productos que tienen un precio menor al promedio obtenido en el punto 15.
+
