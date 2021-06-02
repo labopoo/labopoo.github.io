@@ -1,0 +1,18 @@
+
+Crear dos subclases de la clase Persona.
+
+Una de ellas debe ser la clase "Madre", que tendrá los atributos:
+
+	* nombre de empresa en la que trabaja 
+	* conjunto de hijos (usar hashset)
+
+La otra clase a crear es "Hijo", que tendrá los atributos:
+
+	* escuela a la que asiste
+	* juego favorito
+
+- Las subclases deben tener su respectivo constructor por defecto,
+sus respectivos constructores con parámetros.
+
+- La clase Madre debe tener un método que devuelva un conjunto con los 
+hijos menores de edad.
