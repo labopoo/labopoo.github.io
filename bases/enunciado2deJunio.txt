@@ -42,7 +42,6 @@ Proveedores :
 	website
 	contacto
 
-También el sistema deberá gestionar los productos que compra, cuantos, fecha y precio total .
 
 1) Insertar 10 filas en cada tabla. 
 Con respecto a la tabla Clientes, deberá ingresar 3 clientes que no tengan website; en dicho campo deberán ingresar el valor “No tiene”.
