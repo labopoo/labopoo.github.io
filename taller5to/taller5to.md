@@ -1,5 +1,8 @@
 ## TALLER DE TECNOLOGÍAS DE SOPORTE INFORMÁTICO
 
+## Tarea 4 de Junio
+- [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller5to/enunciado4deJunio.txt)
+
 ## Tarea 14 de Mayo
 - [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller5to/enunciado14deMayo.txt)
 - [ejemplo](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller5to/ejemplo14deMayo.js)
