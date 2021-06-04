@@ -1,0 +1,13 @@
+
+
+Crear una aplicación con las siguientes especificaciones:
+
+1. El usuario deberá tener tres inputs para ingresar texto. 
+   Dichos inputs deberán estar ubicados dentro de la tabla, uno en
+   cada columna, deberán ser visualizados luego de hacer click sobre 
+   un botón que se llame "Nuevos datos".
+2. La página también deberá tener un botón que sirva para ingresar 
+   los datos dentro de la tabla. El mismo deberá tener el nombre "Ingresar"
+   y ser visible cuando los inputs estén a la vista.
+3. Luego de cada inserción, deberán desaparecer los inputs y deberá
+   visualizarse sólo el botón "Nuevos datos".
