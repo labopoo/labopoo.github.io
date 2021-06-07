@@ -16,7 +16,8 @@ La declaración del atributo será la siguiente:
 - Agregar Materia
 
 Comentarios: 
-- En el constructor de la clase Alumno sólo se deberá inicializar el HashMap.
+- En el/los constructor/es de la clase Alumno sólo se deberán inicializar el HashMap
+y el curso.
 - El método agregarMateria se deberá declarar de la siguiente forma:
 ```java
   public void agregarMateria(String nombreDeMateria){
