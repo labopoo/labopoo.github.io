@@ -5,7 +5,7 @@
 que tiene el alumno en la misma, respectivamente.
 La declaración del atributo será la siguiente:
 ```java
-  private HashMap<String,ArrayList<Float> notas;
+  private HashMap<String,ArrayList<Float> notasPorMateria;
 ```
 2) Se deben crear los métodos:
 
