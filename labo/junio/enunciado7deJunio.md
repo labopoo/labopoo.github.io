@@ -23,5 +23,5 @@ Comentarios:
   
   }
 ```
- Y en la implementación se deberá crear un ArrayList, inicializarlo y luego
+ Y en la implementación, se deberá crear un ArrayList, inicializarlo y luego
  agregarlo al HashMap como valor acompañado de su correspondiente clave.
