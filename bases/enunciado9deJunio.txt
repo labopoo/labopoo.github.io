@@ -26,7 +26,7 @@ nombre del director del departamento
 3. Realizar 10 inserciones en cada tabla teniendo en cuenta lo siguiente:
 
 - el banco tiene como empleado a "David Austin", quien trabaja
-como vendedor.
+como empleado perteneciente al departamento "Ventas".
 
 - 4 departamentos del banco son "Marketing", "Finanzas", "Sistemas", "Ventas".
 
@@ -40,4 +40,4 @@ como vendedor.
 
 7. Obtener todos los empleados con el mismo oficio que David Austin 
 
-8. Obtener todos los empleados cuyo puesto de trabajo es vendedor.
+8. Obtener todos los empleados cuyo puesto pertenece al departamento "Sistemas"
