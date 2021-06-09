@@ -42,6 +42,9 @@ Proveedores :
 	website
 	contacto
 
+Facturacion:
+	- proponer datos que considere necesarios
+
 
 1) Insertar 10 filas en cada tabla. 
 Con respecto a la tabla Clientes, deberá ingresar 3 clientes que no tengan website; en dicho campo deberán ingresar el valor “No tiene”.
