@@ -1,0 +1,43 @@
+Sucursales del banco Equis.
+
+En esta ocasión se necesita crear una base de datos para un banco,
+la misma servirá para registrar información de los empleados
+que tienen en todas las sucursales del mundo.
+
+1. Crear una tabla de empleados. Los datos de los empleados serán:
+
+id de empleado
+id del departamento donde trabaja el empleado
+puesto
+nombre
+apellido
+dni
+salario
+
+
+2. Crear una tabla de departamentos. Los datos necesarios de cada departamento son:
+
+id departamento
+nombre
+cantidad de empleados
+nombre del director del departamento
+
+
+3. Realizar 10 inserciones en cada tabla teniendo en cuenta lo siguiente:
+
+- el banco tiene como empleado a "David Austin", quien trabaja
+como vendedor.
+
+- 4 departamentos del banco son "Marketing", "Finanzas", "Sistemas", "Ventas".
+
+- los salarios de los empleados deberán ser de $21.500 a $200.000 
+
+4. Selecciona los datos de los empleados que trabajan en el departamento de Marketing
+
+5. Selecciona los empleados cuyo salario sea inferior al salario medio. Usar función AVG.
+
+6 Selecciona los empleados cuyo salario sea inferior al salario medio de los empleados que son vendedores.
+
+7. Obtener todos los empleados con el mismo oficio que David Austin 
+
+8. Obtener todos los empleados cuyo puesto de trabajo es vendedor.
