@@ -4,7 +4,7 @@
 - [ejemplo](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller6to/ejemplo.py)
 
 ## Tarea 13 de Mayo
-(https://github.com/materiasipm/materiasipm.github.io/blob/master/taller6to/enunciado13deMayo.txt)
+- [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller6to/enunciado13deMayo.txt)
 
 ## Tarea 6 de mayo
 - [ejemplo](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller6to/graficos1.ipynb)
