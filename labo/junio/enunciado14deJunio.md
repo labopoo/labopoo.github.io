@@ -1,5 +1,5 @@
 Crear una clase llamada Area (en inglés, sin tilde), esta clase deberá tener definidos
-tres métodos que sirvan para poder calcular el área de las siguientes
+cinco métodos que sirvan para poder calcular el área de las siguientes
 figuras geométricas:
 
 - Círculo (pi * radio * radio)
