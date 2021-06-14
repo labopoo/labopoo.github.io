@@ -1,5 +1,8 @@
 package com.company;
 
+import static java.lang.Math.PI;
+import static java.lang.Math.*;
+
 public class Muestras {
 
     public static void main(String[] args) {
