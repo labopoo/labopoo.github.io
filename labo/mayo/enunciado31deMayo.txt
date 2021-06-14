@@ -14,6 +14,8 @@ Para ello, se debe:
 HashSet mencionado.
 
 * Crear un hashmap para almacenar la información de cada venta realizada.
+  Dicho hashmap debe asociar una instancia de la clase cliente con el importe total 
+  de la compra que realizó.
 
 * Deberá exitir una clase llamada Cliente que tendrá un id y un hashmap que
  asocia un libro y las unidades compradas del mismo.
