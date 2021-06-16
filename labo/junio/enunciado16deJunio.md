@@ -36,6 +36,7 @@ Comentarios:
   valores deberàn estar almacenados en variables estáticas. 
   
   En la clase Vivienda: variable estàtica llamada TARIFA_VIVIENDA
+  
   En la clase Empresa: variable estática llamada TARIFA_EMPRESA
   
   
