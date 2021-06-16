@@ -1,4 +1,4 @@
-Lunes 28 de Junio, exámen oral y escrito.
+Lunes 28 de Junio, exámen escrito.
 - Comenzará a las 15:15.
 - Tendrá una parte teórica y una parte práctica.
 - Tanto la parte teórica como la parte práctica, deberán ser resueltas en
