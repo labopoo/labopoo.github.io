@@ -1,7 +1,7 @@
 ## PROGRAMA DEL LABORATORIO DE PROGRAMACIÓN ORITENTADA A OBJETOS
 
 ## Tarea 16 de Junio
-- [AVISO - EXÁMEN LUNES 28/06](https://github.com/materiasipm/materiasipm.github.io/tree/master/labo/junio)
+- [AVISO - EXÁMEN LUNES 28/06](https://github.com/materiasipm/materiasipm.github.io/blob/master/labo/junio/aviso.md)
 
 ## Tarea 16 de Junio
 - [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/master/labo/junio/enunciado16deJunio.md)
