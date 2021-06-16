@@ -1,6 +1,11 @@
 ## BASES DE DATOS
 
 
+
+## 16 de Junio
+- [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/master/bases/enunciado16deJunio.pdf)
+- [ejemplo](https://github.com/materiasipm/materiasipm.github.io/blob/master/bases/ejemplo16deJunio.sql)
+
 ## 9 de Junio
 - [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/master/bases/enunciado9deJunio.txt)
 
