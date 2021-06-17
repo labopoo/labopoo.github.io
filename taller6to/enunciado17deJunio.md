@@ -4,6 +4,6 @@ El trabajo de hoy consistirá en generar un archivo con extensión csv para lueg
 - Pensar en lo que le gustaría averiguar sobre dicho tema.
 - Crear un formulario (google forms) para obtener información necesaria y relevante con respecto a lo que se decidió averiguar en el punto 2.
 - Lograr que 25 personas o más llenen dicho formulario.
-- Exportar las respuestas obtenidas en un archivo .csv. Para esto, deberán ir a la pestaña "respuestas", hacer click en los 3 puntos de la derecha y elegir la opción "descargar las respuestas (.csv)".
+- Exportar las respuestas obtenidas en un archivo .csv. Para esto, deberán ingresar al formulario, ir a la pestaña "respuestas", hacer click en los 3 puntos de la derecha y elegir la opción "descargar las respuestas (.csv)".
 - Realizar uno o más gráficos de barras para exponer los resultados obtenidos.
 - Escribir sobre dichos resultados teniendo en cuenta el punto 2.
