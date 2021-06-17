@@ -1,4 +1,4 @@
-La tarea de hoy consistirá en generar un archivo con extensión csv.
+El trabajo de hoy consistirá en generar un archivo con extensión csv para luego analizarlo.
 
 - Elegir un tema que le interese.
 - Pensar en lo que le gustaría averiguar sobre dicho tema.
