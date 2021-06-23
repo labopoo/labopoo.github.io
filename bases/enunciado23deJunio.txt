@@ -26,11 +26,11 @@ id 4, "Redes Informáticas", autor Miguel Dederkremer, stock de 5 unidades, prec
 id 5, "Freddy Mercury, biografía", autora Lesley Ann Jones, stock de  5 unidades, precio de $2200,fecha de lanzamiento 05/06/2018, editorial Alianza
 
 Ventas
-se venden 5 libros con id 4
-se venden 3 libros con id 5
-se venden 10 libros con id 3
-se venden 4 libros con id 2
-se venden 6 libros con id 1
+se venden 5 libros con id 4, fecha 03/05/2021
+se venden 3 libros con id 5, fecha 06/12/20
+se venden 10 libros con id 3, fecha 03/05/21
+se venden 4 libros con id 2, fecha 24/11/19
+se venden 6 libros con id 1, fecha 03/05/18
 
 
 1. Crear la base de datos con un nombre declarativo
