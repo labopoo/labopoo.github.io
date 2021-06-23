@@ -1,0 +1,70 @@
+
+Fecha 23/06/2021.
+
+Exámen de Bases de Datos. 
+
+Se debe crear una base de datos para una librería. En ella, se almacenarán datos de los libros disponibles y
+se actualizarán los datos cada vez que se realicen ventas.
+
+Los datos relevantes de los libros son:
+id_libro, título, autor, editorial, precio, stock, fecha_de_lanzamiento
+
+Los datos relevantes de las ventas son:
+fecha_venta, id_libro, unidades
+
+Datos a ingresar:
+
+Libros 
+id 1, "Matemática", autor Pablo Effeberger, stock de 10 unidades, precio de $1500,fecha de lanzamiento 02/02/2020, editorial Kapelusz 
+
+id 2, "Mis cinco sentidos", autora Carolina Micha, stock de 7 unidades, precio de $1400,fecha de lanzamiento 05/02/2019, editorial Sudamericana
+
+id 3, "El mono relojero", autor Constantino Vigil, stock de 12 unidades, precio de $800,fecha de lanzamiento 05/5/2021, editorial Atlántida
+
+id 4, "Redes Informáticas", autor Miguel Dederkremer, stock de 5 unidades, precio de $1000,fecha de lanzamiento 01/11/2019, editorial Raduses
+
+id 5, "Freddy Mercury, biografía", autora Lesley Ann Jones, stock de  5 unidades, precio de $2200,fecha de lanzamiento 05/06/2018, editorial Alianza
+
+Ventas
+se venden 5 libros con id 4
+se venden 3 libros con id 5
+se venden 10 libros con id 3
+se venden 4 libros con id 2
+se venden 6 libros con id 1
+
+
+1. Crear la base de datos con un nombre declarativo
+2. Crear las tablas "libros" y "ventas" y realizar las inserciones.
+Los valores de id deberán autoincrementarse.
+3. Seleccione todos los libros cuyo stock mínimo sea mayor a 8
+4. Seleccione todos los libros cuyo stock mínimo menor o igual a 5
+5. Seleccione todos los libros con un precio unitario entre $1000 y $2000
+6. Seleccione las editoriales que tengan una "a" en su nombre
+7. Seleccione las editoriales que comiencen comiencen con la letra "s"
+8. Seleccione todos los libros según la fecha de lanzamiento, en orden ascendente.
+9. Seleccione todos las ventas según la fecha de vente, en orden descendente.
+10. Seleccione la cantidad total de stock disponible en la librería
+11. Seleccione el libro con precio más alto de la librería
+12. Seleccione el libro con el precio más bajo de la librería
+13. Seleccione el precio promedio de los libros
+14. Se han realizado las siguiente ventas:
+	5 unidades del libro con id 4, fecha 03/05/21
+	3 unidades del libro con id 5, fecha 06/12/20
+	10 unidades del libro con id 3, fecha 03/05/21
+	4 unidades del libro con id 2, fecha 24/11/19
+	6 unidades del libro con id 1, fecha 03/05/18
+
+	Realizar las actualizaciones del stock.
+15. Seleccione los libros que se compraron el día 3 de Mayo de 2021
+
+16.Seleccione todas las ventas realizadas desde el 03/05/2018 hasta el 31/12/2019 ordenadas de forma descendente.
+17. Seleccione 3 libros de aquellos cuyo stock es mayor a 4 y 
+menor a 14
+18. Agregar un libro sin precio
+19. Modificar el precio del libro ingresado en el ítem anterior
+asignando el precio de $1200
+20. Seleccione la suma de los stocks correspondientes a los libros que tienen un precio mayor o igual al promedio. (utilizar subconsulta)
+21. Agregar una la columna ISBN en la tabla de libros. Debe ser
+de tipo int.
+22. Seleccione la editorial, el título y el precio del libro que tiene más ventas registradas.
+23. Seleccionar el stock del último libro vendido
