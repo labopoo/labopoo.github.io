@@ -36,8 +36,8 @@ se venden 6 libros con id 1, fecha 03/05/18
 1. Crear la base de datos con un nombre declarativo
 2. Crear las tablas "libros" y "ventas" y realizar las inserciones.
 Los valores de id deberán autoincrementarse.
-3. Seleccione todos los libros cuyo stock mínimo sea mayor a 8
-4. Seleccione todos los libros cuyo stock mínimo menor o igual a 5
+3. Seleccione todos los libros cuyo stock sea mayor a 8
+4. Seleccione todos los libros cuyo stock sea menor o igual a 5
 5. Seleccione todos los libros con un precio unitario entre $1000 y $2000
 6. Seleccione las editoriales que tengan una "a" en su nombre
 7. Seleccione las editoriales que comiencen comiencen con la letra "s"
