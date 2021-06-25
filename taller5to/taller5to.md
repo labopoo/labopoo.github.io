@@ -1,5 +1,8 @@
 ## TALLER DE TECNOLOGÍAS DE SOPORTE INFORMÁTICO
 
+## Tarea 25 de Junio
+- [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller5to/enunciado25deJunio.md)
+
 ## Tarea 18 de Junio
 - [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller5to/enunciado18deJunio.md)
 
