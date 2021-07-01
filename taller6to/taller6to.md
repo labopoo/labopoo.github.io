@@ -2,7 +2,7 @@
 
 ## Ejemplos, 1 de Julio
 - [ejemplos](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller6to/ejemplos1deJulio.py)
-- 
+
 ## Tarea 17 de Junio
 - [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller6to/enunciado17deJunio.md)
 
