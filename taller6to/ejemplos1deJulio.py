@@ -20,3 +20,10 @@ df2 = df1.applymap(convertir_en_minusculas)
 df3 = df1['nombre_de_columna'].apply(convertir_en_minusculas)
 
 df4['Precio'] = df1['Precio'].apply(float)
+
+
+columna_precio = df4['Precio']
+
+for indice, valor in columna_precio.items():
+    print("indice: ",indice)
+    print("valor: ",valor)
