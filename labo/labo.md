@@ -1,5 +1,8 @@
 ## PROGRAMA DEL LABORATORIO DE PROGRAMACIÓN ORITENTADA A OBJETOS
 
+## Tarea 5 de Julio
+- [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/master/labo/enunciado5deJulio.md)
+
 ## 28 de Junio, exámen
 - [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/master/labo/enunciado28deJunio.md)
 
