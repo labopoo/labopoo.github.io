@@ -1,5 +1,6 @@
-7) Realizar un sistema para pedidos de almuerzos. Los pedidos se pueden realizar por alumnos o profesores. Para los alumnos
-8)  los datos a incluir son: Nombre, Apellido y División. Para los profesores Nombre, Apellido y Porcentaje de Descuento.
+Realizar un sistema para pedidos de almuerzos. Los pedidos se pueden realizar por alumnos o profesores. 
+
+Para los alumnos los datos a incluir son: Nombre, Apellido y División. Para los profesores Nombre, Apellido y Porcentaje de Descuento.
 
 Existen diferentes platos que se pueden solicitar, para ellos los datos a incluir son: Nombre y Precio.
 
