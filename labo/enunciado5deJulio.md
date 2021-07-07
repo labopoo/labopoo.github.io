@@ -6,6 +6,6 @@ Existen diferentes platos que se pueden solicitar, para ellos los datos a inclui
 
 Al cargarse un pedido se incluye la fecha de creación, el plato, la persona que lo pidió, hora de entrega y si ya se entregó o no.
 
-Debe existir un menú donde se puedan agregar, modificar y eliminar alumnos, profesores, platos y pedidos. 
+Debe existir un menú (interfaz de usuario) donde se puedan agregar, modificar y eliminar alumnos, profesores, platos y pedidos. 
 	
 Se debe poder extraer un listado de los platos a cocinar en el día con su precio considerando el descuento aplicado.
