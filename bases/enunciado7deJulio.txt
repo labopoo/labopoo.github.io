@@ -1,3 +1,9 @@
+---------------------------------------
+-- NOTA -------------------------------
+    SELECT .... IN (SELECT ...)
+    SELECT .... NOT IN (SELECT ... )
+---------------------------------------
+
 Recordatorio: 
 - todos los archivos que tienen consultas escritas, deben tener extensión .sql
 
