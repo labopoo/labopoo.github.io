@@ -1,0 +1,76 @@
+Recordatorio: 
+- todos los archivos que tienen consultas escritas, deben tener extensión .sql
+
+1. Considerando las siguientes tablas y sus datos:
+
+- Facultades (código, nombre)
+- Investigadores (DNI, nombre, facultad)
+- Reservas (DNI, num_serie, comienzo, fin)
+- Equipos (num serie, nombre, facultad)
+
+
+- Realizar sólo las inserciones necesarias para corroborar el buen funcionamiento de
+las siguientes consultas.
+
+Traduzca las siguientes consultas al lenguaje SQL:
+a) Obtener el DNI y nombre de aquellos investigadores que han realizado m ́as de una
+reserva.
+b) Obtener un listado completa de reservas, incluyendo los siguientes datos:
+DNI y nombre del investigador, junto con el nombre de su facultad.
+N ́umero de serie y nombre del equipo reservado, junto con el nombre de la facultad
+a la que pertenece.
+Fecha de comienzo y fin de la reserva.
+c) Obtener el DNI y el nombre de los investigadores que han reservado equipos que no
+son de su facultad.
+d) Obtener los nombres de las facultades en las que ning ́un investigador ha realizado una
+reserva.
+e) Obtener los nombres de las facultades con investigadores ‘ociosos’ (investigadores que
+no han realizado ninguna reserva).
+f ) Obtener el n ́umero de serie y nombre de los equipos que nunca han sido reservados.
+
+
+2. 
+Dada una tabla llamada "articulos" y sus datos a almacenar son:
+- codigo_art
+- descripcion
+- precio
+- stock
+
+Dada una tabla llamada "facturas" y sus datos a almacenar son:
+- codigo_fac
+- fecha 
+- descuento
+- iva 
+
+Dada una tabla llamada "pueblos" y sus datos a almacenar son:
+- codigo_pueblo
+- nombre
+
+Dada una tabla llamada "clientes" y sus datos a almacenar son:
+- codigo_pueblo
+- nombre
+- codigo_postal (varchar)
+
+Dada una tabla llamada "vendedores" y sus datos a almacenar son:
+- codigo_vendedor
+- nombre
+
+- Realizar sólo las inserciones necesarias para corroborar el buen funcionamiento de
+las siguientes consultas.
+
+a) Escribir una consulta que devuelva el código  y descripción del artículo más caro.
+b) Escribir una consulta que devuelva el código y descripción de aquellos artículos cuyo
+precio supera la media.
+c) Escribir una consulta que devuelva el código y fecha de aquellas facturas para las cuales 
+tanto su descuento como su iva son iguales a los máximos.
+d) Escribir una consulta que devuelva el código y nombre de aquellos pueblos donde hay algún
+cliente 
+e) Escribir una consulta que devuelva el código y nombre de aquellos vendedores que
+han realizado alguna factura con un iva del 16% 
+f) Escribir una consulta que muestre el número de artículos con un precios superior al 55% 
+del precio máximo de los artículos.
+g) Escribir una consulta que muestre el código y fecha de las facturas con descuento para
+aquellos clientes cuyo código postal comienza con 12.
+e) Escribir una consulta que muestre el número de pueblos en los que no hay clientes. Utilizar "not in".
+f) Escribir una consulta que muestre el número de artículos cuyo stock supera las 20 unidades, 
+con un precio superior a 25 pesos.
