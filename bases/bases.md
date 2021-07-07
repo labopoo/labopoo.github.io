@@ -1,5 +1,8 @@
 ## BASES DE DATOS
 
+## 7 de Julio
+- [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/master/bases/enunciado7deJulio.txt)
+
 ## 23 de Junio
 - [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/master/bases/enunciado23deJunio.txt)
 
