@@ -1,5 +1,8 @@
 ## TALLER DE TECNOLOGÍAS DE SOPORTE INFORMÁTICO
 
+## Estructura que debe tener el trabajo a entregar
+- [estructura](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller6to/estructura.md)
+
 ## Ejemplos, 1 de Julio
 - [ejemplos](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller6to/ejemplos1deJulio.py)
 
