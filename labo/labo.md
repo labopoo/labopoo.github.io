@@ -5,6 +5,7 @@
 
 ## 28 de Junio, exámen
 - [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/master/labo/enunciado28deJunio.md)
+- [Avichelli](https://github.com/materiasipm/materiasipm.github.io/blob/master/labo/prueba2deJulio.md)
 
 ## Tarea 23 de Junio
 - [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/master/labo/junio/enunciado23deJunio.md)
