@@ -1,6 +1,9 @@
 ## TALLER DE INNOVACIONES TECNOLÓGICAS
 
-## ejemplo 23 de Junio
+## Resumen de temas a evaluar
+- [resumen](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller4to/resumen.md)
+
+## Ejemplo 23 de Junio
 - [ejemplo](https://github.com/materiasipm/materiasipm.github.io/blob/master/taller4to/ejemplo23deJunio.html)
 
 ## Ejemplos 2 de Junio
