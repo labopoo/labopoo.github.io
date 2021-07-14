@@ -16,7 +16,7 @@ Clase TarjetaEquis, con atributos: saldo, saldoNegativoMaximo, numeronId, lista 
 
 La clase TarjetaEquis tendrá como métodos:
 - "cargarSube(float monto)"
-- "realizarViaje(Viaje precioDeViaje)"
+- "realizarViaje(Viaje viaje)"
 - "ultimoMontoAbonado()"
 
 Clase Pasajero, con atributos: nombre, apellido, tarjeta
