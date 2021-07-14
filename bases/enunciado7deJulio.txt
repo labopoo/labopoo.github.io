@@ -21,10 +21,9 @@ las siguientes consultas.
 Traduzca las siguientes consultas al lenguaje SQL:
 a) Obtener el DNI y nombre de aquellos investigadores que han realizado m ́as de una
 reserva.
-b) Obtener un listado completa de reservas, incluyendo los siguientes datos:
+b) Obtener un listado completo de reservas, incluyendo los siguientes datos:
 DNI y nombre del investigador, junto con el nombre de su facultad.
-N ́umero de serie y nombre del equipo reservado, junto con el nombre de la facultad
-a la que pertenece.
+Numero de serie y nombre del equipo reservado, junto con el nombre de la facultad a la que pertenece.
 Fecha de comienzo y fin de la reserva.
 c) Obtener el DNI y el nombre de los investigadores que han reservado equipos que no
 son de su facultad.
