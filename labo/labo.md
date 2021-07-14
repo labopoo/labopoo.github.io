@@ -1,5 +1,8 @@
 ## PROGRAMA DEL LABORATORIO DE PROGRAMACIÓN ORITENTADA A OBJETOS
 
+## Ejercicio Integrador 
+- [enunciado](https://github.com/materiasipm/materiasipm.github.io/commit/694a9a776860f02c089b4ae2bd87f54d07d9c83a)
+
 ## Tarea 5 de Julio
 - [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/master/labo/enunciado5deJulio.md)
 
