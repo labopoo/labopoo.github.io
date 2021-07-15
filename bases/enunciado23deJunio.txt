@@ -63,8 +63,10 @@ menor a 14
 18. Agregar un libro sin precio
 19. Modificar el precio del libro ingresado en el ítem anterior
 asignando el precio de $1200
-20. Seleccione la suma de los stocks correspondientes a los libros que tienen un precio mayor o igual al promedio. (utilizar subconsulta)
+20. Seleccione la suma de los stocks correspondientes a los libros que tienen un 
+precio mayor o igual al promedio. (utilizar subconsulta)
 21. Agregar una la columna ISBN en la tabla de libros. Debe ser
 de tipo int.
-22. Seleccione la editorial, el título y el precio del libro que tiene más ventas registradas.
+22. Seleccione la editorial, el título y el precio del libro que tiene 
+más ventas registradas.
 23. Seleccionar el stock del último libro vendido
