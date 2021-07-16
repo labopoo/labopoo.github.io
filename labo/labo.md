@@ -1,4 +1,4 @@
-## PROGRAMA DEL LABORATORIO DE PROGRAMACIÓN ORITENTADA A OBJETOS
+## PROGRAMA DEL LABORATORIO DE PROGRAMACIÓN ORIENTADA A OBJETOS
 
 ## Ejercicio Integrador 
 - [enunciado](https://github.com/materiasipm/materiasipm.github.io/blob/master/labo/enunciado14deJunio.md)
